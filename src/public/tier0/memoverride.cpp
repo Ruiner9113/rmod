@@ -37,7 +37,6 @@
 #include <stdio.h>
 #include "memdbgoff.h"
 
-
 #if POSIX
 #define __cdecl
 #endif
